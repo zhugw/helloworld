@@ -1,0 +1,26 @@
+From ee532770cfaaadb2d2f43751b00471a912e802a8 Mon Sep 17 00:00:00 2001
+From: zhuguowei <guowei.zhu@tcl.com>
+Date: Thu, 27 Nov 2014 21:46:32 +0800
+Subject: [PATCH 2/2] second commit in topicA
+
+---
+ a.txt    | 1 +
+ topicA_2 | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 topicA_2
+
+diff --git a/a.txt b/a.txt
+index 435f2a8..b9cb774 100644
+--- a/a.txt
++++ b/a.txt
+@@ -1,3 +1,4 @@
+ add this file from local
+ add first line from github.com
+ add this line from topicA branch
++add this line from topicA branch again
+diff --git a/topicA_2 b/topicA_2
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.1
+

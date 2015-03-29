@@ -1,0 +1,7 @@
+add this file from local
+add first line from github.com
+<<<<<<< HEAD
+add this line from locale for test p4merge
+=======
+add this line from web for test p4merge
+>>>>>>> 0cae7b5022cca35558511d42c1c74b19197fd20c
